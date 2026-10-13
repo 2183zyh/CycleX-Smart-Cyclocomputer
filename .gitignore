@@ -1,0 +1,17 @@
+# 构建产物
+build/
+
+# ESP-IDF 组件（由 idf_component.yml 自动下载）
+managed_components/
+
+# 本地配置（含个人 WiFi/MQTT 密钥，不要上传）
+main/secrets.h
+
+# SDK 配置
+sdkconfig
+sdkconfig.old
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+.cache/
