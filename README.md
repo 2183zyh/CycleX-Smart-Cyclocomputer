@@ -122,4 +122,4 @@ MQTT 主题 `/topic/sensor_data`，每 500ms 上报一次：
 
 ## License
 
-MIT
+MIT4.0
